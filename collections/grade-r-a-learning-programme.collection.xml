@@ -1,3 +1,54 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11135</md:content-id>  <md:title>Grade R - A Learning Programme</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>c5011b46-bad9-413c-ada4-06873e75354b</md:uuid>
-<md:slug>grade-r-a-learning-programme</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Term 1</md:title>                                <col:content>                    <col:module document="m32576"/>                            <col:module document="m32577"/>                            <col:module document="m32588"/>                            <col:module document="m32589"/>                            <col:module document="m32602"/>                            <col:module document="m32596"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 2</md:title>                                <col:content>                    <col:module document="m32578"/>                            <col:module document="m32579"/>                            <col:module document="m32590"/>                            <col:module document="m32591"/>                            <col:module document="m32597"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 3</md:title>                                <col:content>                    <col:module document="m32581"/>                            <col:module document="m32582"/>                            <col:module document="m32592"/>                            <col:module document="m32593"/>                            <col:module document="m32599"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 4</md:title>                                <col:content>                    <col:module document="m32586"/>                            <col:module document="m32587"/>                            <col:module document="m32594"/>                            <col:module document="m32595"/>                            <col:module document="m32600"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Siyavula Uploaders">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11135</md:content-id>
+    <md:title>Grade R - A Learning Programme</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>c5011b46-bad9-413c-ada4-06873e75354b</md:uuid>
+    <md:slug>grade-r-a-learning-programme</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Term 1</md:title>
+      <col:content>
+        <col:module document="m32576"/>
+        <col:module document="m32577"/>
+        <col:module document="m32588"/>
+        <col:module document="m32589"/>
+        <col:module document="m32602"/>
+        <col:module document="m32596"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 2</md:title>
+      <col:content>
+        <col:module document="m32578"/>
+        <col:module document="m32579"/>
+        <col:module document="m32590"/>
+        <col:module document="m32591"/>
+        <col:module document="m32597"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 3</md:title>
+      <col:content>
+        <col:module document="m32581"/>
+        <col:module document="m32582"/>
+        <col:module document="m32592"/>
+        <col:module document="m32593"/>
+        <col:module document="m32599"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 4</md:title>
+      <col:content>
+        <col:module document="m32586"/>
+        <col:module document="m32587"/>
+        <col:module document="m32594"/>
+        <col:module document="m32595"/>
+        <col:module document="m32600"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
